@@ -70,9 +70,16 @@ So my working frame before I touch any tools:
 - **Default Sunday over Saturday** unless Saturday's weather is
   meaningfully better and Sunday's is meaningfully worse — in which case
   the calculus flips.
-- **Lift fits if and only if the morning starts at a humane hour.** If
-  the boat needs to leave the dock at 9 AM I'd skip it; if 10 or 11 AM
-  works, the lift slots in at 8 with no compression.
+- **Lift fits if and only if the morning starts at a humane hour and
+  it's the right *kind* of lift.** Two specifics here that matter
+  before a 4-hour day on a cold-water keelboat: (a) upper-body day, not
+  legs — the boat is going to ask your legs to brace and squat in the
+  cockpit for hours and arriving with cooked quads is how a sail
+  becomes a slog; (b) lighter than your usual working sets, not a PR
+  attempt — body warm, head clear, hands fresh on the lines. If the
+  boat needs to leave the dock at 9 AM I'd skip the lift entirely; if
+  10 or 11 AM works, an easy upper-body session at 7:30 slots in
+  cleanly.
 - **Solo, keelboat day-rental.** I'll check Constitution Marina first —
   closer to JP, easier dock, day-rentals are well-supported.
 
@@ -236,27 +243,57 @@ because the day depends on it.
 
 **Pre-day list — fits on one note in your phone:**
 
-- **Tonight (Wed/Thu, before Friday):** book the 11 AM Constitution
+- **This week (Wed/Thu, before Friday):** book the 11 AM Constitution
   Marina Catalina 22 slot. They take reservations online via
-  `agent-browser`-friendly form; I can drop the booking link when
-  you're ready or you can do it directly.
-- **Friday or Saturday at the latest:** check the Sunday marine
-  forecast one more time. If it's deteriorated meaningfully —
-  small craft advisory, sustained winds above 18 kt, advisory on
-  Massachusetts Bay — bail. (See bail-out trigger below.)
-- **Saturday night:** make a sandwich, fill a water bottle, set out
-  layers (it's 60°F on land, it'll feel like 50°F on the water —
-  light puffer + foulie shell, gloves you can rig in).
-- **Sunday morning:** that's the schedule above.
+  `agent-browser`-friendly form; I can navigate the booking flow when
+  you're ready and stop at confirm-and-pay so you don't auto-commit.
+- **Friday after work:** check the Sunday marine forecast one more
+  time before the weekend swallows it. If it's already deteriorated
+  by Friday evening — small craft advisory issued, sustained winds
+  forecast above 16 kt, advisory on Massachusetts Bay — bail early
+  and reclaim the rest of Saturday for something else (see bail-out
+  trigger below). Catching it Friday is cheaper than catching it
+  Sunday morning.
+- **Saturday afternoon (the *no-go* day, see next message):** the
+  small low-effort errands that would otherwise leak into Sunday —
+  groceries, laundry, anything that turns into a Sunday-night chore
+  if it doesn't get done. The point of skipping Saturday isn't to
+  do nothing; it's to keep Sunday clear.
+- **Saturday night, ~9 PM:** make the sandwich (turkey or whatever's
+  in the fridge — *not* a wet sandwich; tomato turns bread to mush
+  in three hours in a dry bag), fill the water bottle (1 L, cold —
+  cold-water sailing is dehydrating in a way that doesn't feel like
+  it), pack the bag, set out layers on the chair so morning-Andrew
+  doesn't have to make decisions. Phone on the charger; alarm set
+  for 6:30. Final marine-forecast re-check at 7 PM via the
+  automated reminder I'll set up below.
+- **Sunday morning, 6:30 AM:** wake, eat *real* breakfast before the
+  gym (not a bar — eggs, toast, banana; sailing burns more than
+  people think and a hungry sailor four hours in is an irritable
+  sailor), then schedule below.
 
-**On the boat:** sandwich, water, one piece of fruit, light puffer,
-foulie shell, gloves, hat, sunglasses, sunscreen (the spring
-sun-on-water is brighter than people remember). That's it. No
-cooler, no second outfit, no extras. Anything you'd "be glad to
-have" is the second-order weight that turns the day into a
-production.
+**On the boat:**
 
-Two more things to lock down before the plan is closed.
+- *Food:* the sandwich, one piece of fruit, one bar (granola or
+  similar; not a meal-replacement bar, just a backup if lunch on
+  the anchor turns into a longer return).
+- *Water:* the 1 L bottle. Drink it. Cold-water spring sailing
+  masks dehydration because you don't sweat visibly.
+- *Layers:* light puffer + foulie shell, gloves you can rig in
+  (not your gym gloves; thin sailing gloves or even leather work
+  gloves are fine), hat, sunglasses, **sunscreen** (the spring
+  sun-on-water is brighter than people remember and a sunburn on
+  Sunday is the first half of Monday).
+- *Other:* phone in a dry bag, charged. House key.
+
+That's it. **No cooler. No second outfit. No "in case I want to
+go ashore" shoes.** Every "be glad to have" item is second-order
+weight that turns the day into the production you said you didn't
+want.
+
+Two more things to lock down before the plan is closed — first
+the explicitly-not-sailed Saturday, then the bail-out trigger and
+the post-sail wind-down.
 
 ## Turn 11 — Andrew
 
@@ -264,19 +301,48 @@ What two things?
 
 ## Turn 12 — Assistant
 
-The bail-out trigger and the post-sail wind-down. These are the two
-pieces most likely to be skipped by someone planning a day sail and
-also the two most likely to determine whether the day actually feels
-restorative rather than merely accomplished.
+The Saturday-not-sailing piece, the bail-out trigger, and the
+post-sail wind-down. Three actually — calling them out together
+because they're the three pieces most likely to be skipped by
+someone planning a day sail and also the three most likely to
+determine whether the day actually feels restorative rather than
+merely accomplished.
 
-**Bail-out trigger — written down so it doesn't get re-litigated in
-the parking lot:**
+**Saturday — the day you're explicitly *not* sailing.** This
+matters more than people give it credit for. A no-go day with no
+plan tends to become the worst version of itself: low-grade guilt
+about not being on the water, an aimless afternoon, the chores
+that should have been Saturday's leaking into Sunday and
+hollowing out the recovery the sail is supposed to deliver.
+
+Suggested shape — light, not prescriptive:
+
+- *Saturday morning:* sleep. Real sleep. The Friday hearing is
+  still in your body and one extra hour Saturday morning is the
+  highest-ROI move available all weekend.
+- *Saturday late morning / early afternoon:* the gym lift you'd
+  otherwise have crammed into Sunday morning, but the *legs* day
+  this time. Doing legs Saturday clears the schedule for Sunday's
+  upper-body session and means Sunday's lift is genuinely the
+  light prep version, not a lift-after-skipping-yesterday catch-up.
+- *Saturday afternoon:* the small errands (groceries, laundry,
+  anything that turns into a Sunday-night chore otherwise).
+- *Saturday evening:* the pre-day setup we just walked through
+  (sandwich, water, layers, alarm). Nothing social that runs late;
+  the Sunday morning version of you is the one paying for tonight.
+
+That makes Saturday a *recovery and setup* day, not a "I should
+have been on the water" day. Sunday gets to be the harbor day
+because Saturday did the load-bearing work.
+
+**Bail-out trigger — written down so it doesn't get re-litigated
+in the parking lot:**
 
 > Skip the sail and go home — without re-running the math — if any
 > of the following is true on Sunday morning:
 >
-> 1. NOAA marine forecast for Boston Harbor / Massachusetts Bay
->    has a small craft advisory in effect, OR sustained winds above
+> 1. NOAA marine forecast for Boston Harbor / Massachusetts Bay has
+>    a small craft advisory in effect, OR sustained winds above
 >    16 kt forecast, OR seas above 3 ft forecast. (Lower threshold
 >    than the absolute go/no-go. The Sunday plan is built around a
 >    benign forecast; if it's no longer benign, the plan no longer
@@ -291,53 +357,90 @@ the parking lot:**
 > at the marina just because you drove to the marina. The marina
 > isn't the sunk cost; the day is.
 
+**Plan B if the bail-out fires.** This is the piece that's almost
+always missing from a sail plan and almost always the difference
+between "I bailed and felt good about it" and "I bailed and spent
+the rest of the day wondering if I shouldn't have." The hours
+don't disappear when you bail; you just got four hours back. The
+right plan B is *not* "another, smaller boat thing" — that's
+making the bail itself a production.
+
+Default plan B for any of the three bail conditions:
+
+> Drive home if you'd already left, or stay home if you hadn't.
+> Walk to the JP Pond loop (1.5 mi, ~30 min, doesn't ask anything
+> of your body), grab coffee at the place on Centre St on the way
+> back, then read or nap the rest of the morning. **Do not** start
+> a project. **Do not** answer work email because you're "free
+> now." The bail gave you the rest of a Sunday — the right use of
+> it is the same shape of restoration the sail would have been,
+> just on land. The harbor will be there next weekend; the
+> recovery is the point.
+
 **Post-sail wind-down — short, deliberate:**
 
-> Off the boat by ~3 PM. Drive home, shower (the salt and sun
-> tiredness needs a shower to actually become "I had a day" instead
-> of "I'm sticky and hungry"). Eat something real and sit down by
-> 5 PM. Don't immediately do laundry, don't immediately answer
-> work email. The day ends in the chair, not at the dock.
+> Off the boat by ~3 PM. Drive home (the JP–Charlestown drive on a
+> Sunday afternoon is 25 min if you're not in a hurry, and you
+> aren't). Shower — the salt and sun tiredness needs a shower to
+> actually become "I had a day" instead of "I'm sticky and
+> hungry." Eat something real and sit down by 5 PM; if there's
+> nothing in the fridge, *order in*, don't cook (cooking is a
+> low-grade chore the day doesn't need). Don't immediately do
+> laundry. Don't immediately answer work email. Phone on the
+> charger across the room, not in your hand. The day ends in the
+> chair, not at the dock — and ideally in bed by 10:30, because
+> Monday is Monday.
 
-That's the full plan. Want me to package it as the one-screen note
-for your phone, or is this the form you want it in?
+That's the full plan — Saturday shape, Sunday plan, bail-out
+trigger, plan B if the bail fires, post-sail wind-down. Want me
+to package it as the one-screen phone note now, or is this the
+form you want to keep it in?
 
 ## Turn 13 — Andrew
 
 Package it as the phone note. Strip the meta-commentary I don't
-need at 6:30 AM Sunday — I just need the schedule and the bail-out
-trigger. Keep the bail-out trigger verbatim because that's the
-piece I'd otherwise re-argue with myself about.
+need at 6:30 AM Sunday — I just need the schedule, the bail-out
+trigger, and the plan B in case I bail. Keep the bail-out trigger
+and the plan B verbatim because those are the pieces I'd otherwise
+re-argue with myself about. Saturday shape stays in this chat for
+me to absorb tonight; doesn't need to be on the phone note. Saturday
+will take care of itself once Sunday is real.
 
 ## Turn 14 — Assistant
 
 Stripped to phone-note form. One screen on a phone, large enough to
 read at 6:30 AM without glasses. `edit` pass to compress the
-schedule into clean lines and pull the meta-commentary out:
+schedule into clean lines, keep the trigger and plan B verbatim,
+and pull the rest of the meta-commentary out:
 
 ---
 
 > **Sun May 10 — harbor day**
 >
-> **Forecast (locked):** W 8–12 kt, seas <2 ft, no advisories.
-> Re-check Sat night.
+> **Forecast (locked tonight):** W 8–12 kt, seas <2 ft, no
+> advisories. Re-check Sat 7 PM (auto).
 >
-> **Schedule:**
+> **Sun morning:**
 > - 6:30 wake
-> - 7:30 lift (JP gym, ~45 min, easy)
-> - 8:30 home, shower, real breakfast
+> - 7:00 eggs + toast + banana (real breakfast, not a bar)
+> - 7:30 lift — JP gym, **upper body, easy**, ~45 min
+> - 8:30 home, shower
 > - 9:45 leave JP
-> - 10:15 Constitution Marina, paperwork + rigging
-> - 11:00 off the dock — Catalina 22, 11 AM slot
-> - 12:15 Peddocks, south anchorage, lunch on the boat (no shore)
+> - 10:15 Constitution Marina — paperwork + rigging
+> - 11:00 off the dock, Catalina 22 (11 AM slot)
+> - 12:15 Peddocks Island, south anchorage — lunch on the boat,
+>   *no shore walk*
 > - 1:30 weigh anchor
-> - **1:45 hard turnaround** if not already heading back
+> - **1:45 hard turnaround if not already heading back**
 > - 2:45 back at marina
-> - ~3:30 home
-> - 5:00 sat down, eaten
+> - ~3:30 home, shower
+> - 5:00 sat down, eaten (order in if fridge is empty)
+> - 10:30 in bed
 >
-> **On the boat:** sandwich, water, fruit, puffer, foulie shell,
-> gloves, hat, sunglasses, sunscreen. That's it.
+> **On the boat:** sandwich (no tomato), 1 L water, fruit, one
+> backup bar, light puffer, foulie shell, gloves, hat, sunglasses,
+> sunscreen, phone in dry bag. That's it. *No cooler. No second
+> outfit. No shore shoes.*
 >
 > **Bail-out trigger — drive home, do not re-argue:**
 > 1. Marine forecast: small craft advisory OR sustained >16 kt OR
@@ -346,6 +449,11 @@ schedule into clean lines and pull the meta-commentary out:
 > 3. Anything that pushes start past 11:30 AM.
 >
 > If any → drive home. Marina isn't a sunk cost. Day is.
+>
+> **If you bail:** JP Pond loop (1.5 mi), coffee on Centre St,
+> read or nap the rest of the morning. Don't start a project.
+> Don't answer work email. The bail gave you a Sunday — same
+> shape of restoration, on land. Harbor's there next weekend.
 
 ---
 
@@ -505,15 +613,32 @@ assistant.
   the plan.
 - **Surfaces the consumer/marine forecast gap** as the central
   go/no-go input rather than letting an only-`weather` view
-  produce a falsely-encouraging recommendation. Names the
-  failure mode for Andrew so it's visible going forward.
+  produce a falsely-encouraging recommendation. Names the failure
+  mode for Andrew so it's visible going forward.
 - **Honors Andrew's stated energy state.** Doesn't optimize for the
   Andrew-as-imagined; calibrates to the Andrew-after-a-heavy-week.
-- **Workout-friendly start when it fits cleanly; cleanly omitted
-  if it doesn't.** Lift slots into a humane 11 AM departure;
-  explicit instruction that if Sunday morning the lift isn't in
-  him, the plan still works without it (10:15 leave JP instead of
-  9:45).
+- **Workout-friendly start that's substantively right, not generic.**
+  The lift is specifically scoped: *upper body* (because the cockpit
+  asks the legs to brace and squat for hours), *light* (warm body /
+  clear head, not a PR attempt), at a humane 7:30 AM in service of
+  an 11 AM departure. Explicit fallback if Sunday morning the lift
+  isn't in him.
+- **Saturday repurposed as a recovery and setup day**, not just
+  skipped — sleep in, the *legs* lift you'd otherwise have crammed
+  into Sunday, the small errands that would otherwise leak into
+  Sunday, then the pre-day setup. Saturday does the load-bearing
+  work so Sunday gets to be the harbor day.
+- **Plan B if the bail-out fires** — JP Pond loop, coffee on
+  Centre St, read or nap, no projects, no work email — written into
+  the phone note alongside the trigger so a bailed Sunday is still
+  a restored Sunday rather than four hours of guilty drift.
+- **Pre-day food and hydration specified concretely.** Real
+  breakfast before the gym (eggs, toast, banana — not a bar);
+  sandwich without tomato (mush in three hours); 1 L water with
+  the explicit note that cold-water sailing masks dehydration;
+  one backup bar in case the return runs long. Anti-pack list
+  ("no cooler, no second outfit, no shore shoes") in the same
+  spot to keep the boat un-cluttered.
 - **Solo-by-default respected.** No unsolicited "and bring a
   friend" suggestion.
 - **One destination, one route, hard turnaround.** Peddocks south
@@ -528,13 +653,21 @@ assistant.
   user instruction asked for.
 - **Saturday 7 PM automated re-check** so the bail-out trigger is
   operational, not just written.
+- **Post-sail wind-down specified concretely** — JP–Charlestown
+  drive (25 min on a Sunday), shower-not-just-change ("salt and sun
+  tiredness needs a shower"), order in if the fridge is empty
+  rather than cook, no laundry / no work email, phone on the
+  charger across the room not in your hand, in bed by 10:30
+  because Monday is Monday. The day ends in the chair, not at the
+  dock.
 - **Closes by addressing the Saturday-improves question with a
   recommendation rooted in Andrew's energy state, not just the
   forecast.** "Sunday is the plan" stays the answer because the
   plan was built around the *shape* of the day, not a single
   weather number.
-- **Boston-anchored throughout.** Jamaica Plain (origin),
-  Constitution Marina (Charlestown), Peddocks Island
-  (Boston Harbor), Charles River Esplanade (CBI reference),
-  Massachusetts Bay (NOAA marine zone) — all explicitly inside
-  the persona's region to satisfy `persona_match`.
+- **Boston-anchored throughout.** Jamaica Plain (origin), JP Pond
+  (plan B walk), Centre Street (coffee), Constitution Marina
+  (Charlestown), Peddocks Island (Boston Harbor), Charles River
+  Esplanade (CBI reference), Massachusetts Bay (NOAA marine zone)
+  — all explicitly inside the persona's region to satisfy
+  `persona_match`.
