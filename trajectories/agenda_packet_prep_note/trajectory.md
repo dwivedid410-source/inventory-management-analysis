@@ -39,7 +39,8 @@ need from you before I touch the packet, all quick:
 It's the **BPDA Board packet for Thursday May 7**, the file is
 `BPDA_Board_Packet_2026-05-07.pdf` in our team Drive folder under "BPDA / 2026
 / May 7." Meeting is 5pm Thursday in the Piemonte Room. I'm not attending —
-Michelle is going in my place because I'm in budget meetings late that day. Two
+Michelle is going in my place because I'm stuck in City budget meetings at City
+Hall late that day. Two
 things I already know are on it: a permitting matter on a Roxbury parcel I've
 been quietly tracking, and there's apparently a Codman Square mixed-use project
 on for a major modification vote. Beyond that I don't know what's in the packet.
@@ -194,7 +195,8 @@ Show me.
 
 > **Prep note — BPDA Board, Thu May 7, 5 PM (Piemonte Room)**
 >
-> Michelle, you're going in my place — I'm stuck in budget late Thursday.
+> Michelle, you're going in my place — I'm stuck in City budget meetings at
+> City Hall late Thursday.
 >
 > 178-page packet. I had the assistant pull only the items that touch our
 > portfolio, plus one buried consent item. I have not read the full packet;
@@ -276,8 +278,8 @@ on those.
 Done — `humanizer` applied to the three lines you specified, nothing else.
 Bullets untouched. Changes were small but right:
 
-- **"Michelle, you're going in my place — I'm stuck in budget late
-  Thursday."** Unchanged. Already in your voice.
+- **"Michelle, you're going in my place — I'm stuck in City budget meetings
+  at City Hall late Thursday."** Unchanged. Already in your voice.
 - **"178-page packet. I had the assistant pull only the items that touch
   our portfolio, plus one buried consent item. I have not read the full
   packet; flag anything that looks off against your own read."** Tightened
@@ -339,7 +341,7 @@ Anything else, or do we send?
 
 One more thing. Can you also give me a stripped-down version of just the
 "what to watch" section as five bullets I can keep open on my phone during
-the budget meeting? I want to be able to glance at it and know what
+the City Hall budget meeting? I want to be able to glance at it and know what
 Michelle is dealing with without opening the full prep note.
 
 ## Turn 18 — Assistant
@@ -479,4 +481,4 @@ note to Michelle now. Thanks.
   asks for a stripped-down version, assistant pushes back on producing a
   second `.docx` and offers a draft email to himself instead — lighter
   artifact, no app to open, fits the actual use case ("between things in
-  the budget meeting").
+  the City Hall budget meeting").
