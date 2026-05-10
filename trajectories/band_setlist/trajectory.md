@@ -5,17 +5,14 @@ that rehearses weekly in Allston, Boston; not the bandleader, "the
 organized one")
 **Tools available:** memory, file_read, exec, file_write, edit (+ google-docs,
 gmail as named skills)
-**Goal:** Pull what the agent remembers from prior conversations about
-Andrew's band, build a 45-minute setlist for the Mon Oct 12 gig at
-O'Brien's in Allston, package it as a Google Doc structured for the band's
-actual reading habits, and queue a short cover email to the bandmates.
+**Goal:** Pull what the agent remembers about Andrew's band, build a 45-min
+setlist for the Mon Oct 12 gig at O'Brien's in Allston, package it as a
+Google Doc structured for the band's actual reading habits, queue a short
+cover email to the bandmates.
 
-> **Format note:** This trajectory is **user-only — no assistant responses** —
-> per the brief's explicit format requirement (stated twice). 14 turns of
-> Andrew's voice, each turn a **short precise message** in the way Andrew
-> would actually text — one focused beat per message, not paragraph-form.
-> The assistant's tool work happens between turns, off-page; only Andrew's
-> voice is on the page.
+> **Format:** User-only — no assistant responses. 14 turns of Andrew's voice
+> as **short text-thread messages** (most 5–15 words; the way Andrew would
+> actually text, not paragraphs). Tool work happens between turns, off-page.
 
 ---
 
@@ -30,106 +27,84 @@ i can share with the band so everyone knows whats up
 
 ## Turn 2
 
-oh wait — were third on a three-band bill. so 9:30 stage time, audience
-already two drinks in. changes the open.
+oh wait — were third on a three-band bill. 9:30 stage time.
 
 ## Turn 3
 
-actually back up. just pull what you remember about the active rotation
-first. i always forget two or three songs from memory.
+actually back up. just pull the active rotation first.
 
 ## Turn 4
 
-yeah thats the list, two corrections. add "static" to gig-ready, we
-wrote it in march and weve been playing it. move "patience" to
-needs-work, we havent touched it in 6 weeks.
+yeah thats the list. add "static" to gig-ready. move "patience" to
+needs-work — havent touched it in 6 weeks.
 
 ## Turn 5
 
-ok so 9-10 songs for 45 min. opening with "crescent" — we know it cold,
-seans vocal sits clean. i wanted the wilco cover second but maya keeps
-saying originals first or people only remember the cover. shes right.
+9-10 songs for 45 min. opening with "crescent."
 
 ## Turn 6
 
-revise — crescent, then static, then wilco third. originals up front,
-familiar in the front third.
+then "static" then the wilco cover. originals up front.
 
 ## Turn 7
 
-no per-song runtimes on the doc. weve been burned. song order only,
-target end time at the bottom.
+no per-song runtimes on the doc. weve been burned.
 
 ## Turn 8
 
-patience worries me. shelved but its a crowd song, seans mom asks every
-show. flag it as "decision needed by thursday — rehearse twice or
-drop." dont put it on the setlist yet.
+patience worries me. flag it as "decision needed by thursday."
 
 ## Turn 9
 
-no encore section. obriens is too small, stage is five feet from the
-bar. one continuous set, slow song around 7 or 8 to reset, no fake
-encore.
+no encore section. obriens is too small.
 
 ## Turn 10
 
-doc structure — sean skims, maya reads everything, liu reads the first
-bold line and stops. setlist at the top, "still to decide" middle,
-logistics at the bottom.
+slow song around 7 or 8 to reset. then close.
 
 ## Turn 11
 
-wait — load in is 7, doors 8, were on at 9:30 not 9. update if you'd
-written 9 anywhere.
+doc structure — setlist top, decide-section middle, logistics bottom.
+liu reads the first bold line and stops.
 
 ## Turn 12
 
-email to the band — three lines max. setlist draft, the patience
-question is the one to weigh in on, see you thursday. write to the
-median.
+wait — load in is 7, on at 9:30. update if you'd written 9.
 
 ## Turn 13
 
-one more — at the very top of the doc, before anything else, one bold
-line: date / load-in 7 / on-stage 9:30 / venue. that line is the one
-liu sees.
+email to the band — three lines max. patience question is the one to
+weigh in on.
 
 ## Turn 14
 
-show me both before they go. dont send. and if the math doesnt hit 45,
-tell me which way over or under — id rather decide what to cut myself
-than be surprised at the gig.
+show me both before they go. dont send. if math doesnt hit 45 tell me
+which way.
 
 ---
 
 ## End of trajectory
 
-**Total turns:** 14 (within the requested 12–16)
-**Format:** First-person user voice only, per the brief's explicit format
-requirement. **Each turn is a short precise message** — one focused beat
-per message, the way Andrew would actually text in a real thread, not
-paragraph-form. No assistant turns rendered.
+**Total turns:** 14 (within requested 12–16).
+**Format:** User-only, **short text-thread messages.** Most turns 5–15 words.
+T1 preserved verbatim from the brief's opening message.
 
-**Realistic thinking patterns demonstrated** (per the brief's explicit ask)
-**despite — and because of — the short-message format:**
-- *Self-correction:* T3 ("actually back up"); T6 ("revise"); T11 ("wait").
-- *Adding context that just came to him:* T2 ("oh wait"); T9; T13 ("one more").
-- *Hesitation in the prose:* "wait," "actually," "oh wait" — the chat-voice
-  markers do the work in short messages that paragraphs would otherwise need
-  full clauses for.
-- *Tactical reads of bandmates:* T10 (Sean/Maya/Liu reading habits); T12
-  (write to the median); T13 (bold line for Liu specifically).
-- *Domain realism:* T7 (band has been burned by per-song runtimes); T9
-  (encores at small clubs); T14 (the "set runs 38 minutes at the gig"
-  failure mode the math has to prevent).
-- *Refuses to delegate the cut decision:* T14.
+**Realistic thinking patterns** (chat-voice markers do the work in short
+form):
+- Self-correction: T3 ("actually back up"), T12 ("wait").
+- Adding context: T2, T9, T12 ("oh wait," "no encore," "wait").
+- Mid-message corrections: T4 (correction list).
+- Tactical reads of bandmates: T11 (Liu reads first bold line and stops),
+  T13 (three lines max).
+- Domain realism: T7 (weve been burned), T9 (obriens too small), T14
+  (catch the math gap).
+- Refuses to delegate the cut: T14 (tell me which way).
 
-**Tools implicitly invoked through Andrew's natural voice** (assistant work
-between turns, off-page): `memory` (T3, T4); `file_read` (T3); `exec`
-(T5, T14); `file_write` (T7-T13); `edit` (T11, T13); `google-docs` (T1,
-T10, T14); `gmail` (T12, T14).
+**Tools implicitly invoked:** memory (T3); file_read (T3 — implicit on
+rehearsal notes); exec (T5, T14 — runtime math); file_write (implicit
+T7–T11); edit (T12 — update the time); google-docs (T1, T11, T14);
+gmail (T13, T14).
 
-**Persona-match:** Boston-anchored throughout — Allston rehearsal space,
-O'Brien's Pub on Harvard Avenue, "every allston gig" (T8). Andrew's
+**Persona-match:** Boston-anchored — Allston rehearsal context, O'Brien's
+on Harvard Ave, the 9:30 third-on-three-band-bill slot. Andrew's
 chat-voice (lowercase, fragments, light contractions) preserved exactly.
